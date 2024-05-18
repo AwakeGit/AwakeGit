@@ -78,7 +78,7 @@ backend-разработки и постоянно совершенствую с
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AwakeGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" style="width: 49%;" />
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
     <img src="https://www.codewars.com/users/AwakeGit/badges/micro" alt="codewars badge" style="width: 70%;" />
 </div>
 
