@@ -11,9 +11,6 @@
   <a href="https://t.me/Awake111" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="telegram logo" style="margin-bottom: 5px; height: 28px;" />
   </a>
-  <a href="https://linkedin.com/in/Awake1123" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px; height: 28px;" />
-  </a>
   <a href="mailto:pashaaaa86@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px; height: 28px;" />
   </a>
